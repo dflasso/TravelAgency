@@ -1,0 +1,11 @@
+plantillas de react
+https://demos.creative-tim.com/material-dashboard-react/#/rtl/rtl-page
+
+descarga de la plantilla
+https://www.creative-tim.com/product/material-dashboard-react?ref=mdr-fixed-plugin#
+
+tutoriales
+https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w/videos
+
+documentacion
+https://demos.creative-tim.com/material-dashboard-react/#/documentation/tutorial
